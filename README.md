@@ -1,7 +1,7 @@
 # news_board_api
-For running this project.
+Python version=3.6.9
+>For running this project.
 Clone this repo, set virtual environment, execute:
->Python version=3.6.9
 ```
  pip install -r requirements.txt
 ```
