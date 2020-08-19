@@ -17,3 +17,4 @@ and run the server
 ```
  python manage.py runserver
 ```
+postman collection link = https://www.getpostman.com/collections/4d2ee11e6c2233fb0771
